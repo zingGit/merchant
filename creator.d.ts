@@ -32071,3 +32071,4 @@ declare const CC_RUNTIME: boolean;
 declare const CC_TEST: boolean;
 /** Running in the WeChat Mini Game. */
 declare const CC_WECHATGAME: boolean;
+declare const hex_md5;
